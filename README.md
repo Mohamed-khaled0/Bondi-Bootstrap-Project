@@ -1,4 +1,4 @@
-# Bondi - Responsive Landing Page Template
+# Nova - Responsive Landing Page Template
 
 Bondi is a modern and fully responsive landing page template designed to provide a sleek and user-friendly experience across various devices. This project is built using Bootstrap, HTML, and CSS, ensuring a consistent layout and design.
 
